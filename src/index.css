@@ -1,0 +1,22 @@
+:root {
+    --main-bg-color: #fdfffd;
+    --main-text-color: #121113;
+  }
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body{
+    background-color: var(--main-bg-color);
+    color: var(--main-text-color);
+}
+
+.logo{
+    width: 120px;
+    height: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
